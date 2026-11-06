@@ -24,7 +24,7 @@ Each exercise is a global class that runs in the ADT console.
 | `ZCL_3964_ITERATIONS` | DO ENDDO with TIMES and abort condition |
 | `ZCL_3964_BRANCH` | Exercise 5 - Implement Conditional branching |
 | `ZCL_3964_INTERNAL_TABLES` | Simple internal tables |
-| `ZCL_3964_ITERATE` | Exercise 6 - Ue iterations and simple internal tables to calculate and display the Fibonacci numbers. |
+| `ZCL_3964_ITERATE` | Exercise 6 - Use iterations and simple internal tables to calculate and display the Fibonacci numbers. |
 | `ZCL_3964_DEBUG` | Exercise 7 - Debug ABAP Code |
 
 ## How to run
